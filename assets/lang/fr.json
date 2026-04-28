@@ -1,0 +1,111 @@
+{
+    "nav": {
+        "home": "Accueil",
+        "platform": "Plateforme",
+        "about": "À propos",
+        "pricing": "Tarifs",
+        "resources": "Ressources",
+        "contact": "Contact",
+        "cta": "Commencer"
+    },
+    "footer": {
+        "tagline": "Transformer les décisions foncières grâce à l'intelligence des données. Nous fournissons des informations exploitables pour le développement durable.",
+        "platform": "Plateforme",
+        "resources": "Ressources",
+        "company": "Entreprise"
+    },
+    "landing": {
+        "home": {
+            "title": "Analyse foncière alimentée par l'IA",
+            "subtitle": "Intelligence satellitaire en temps réel",
+            "hero_badge": "L'avenir de l'intelligence foncière",
+            "hero_desc": "Renforcez vos décisions d'investissement avec la plateforme d'intelligence foncière la plus avancée au monde. Données en temps réel, évaluations par IA et analyses prédictives à portée de main.",
+            "cta_trial": "Essai gratuit",
+            "cta_demo": "Réserver une démo",
+            "market_growth": "Croissance du marché",
+            "vs_last_year": "vs l'année dernière",
+            "features_title": "Tout ce dont vous avez besoin pour prendre de meilleures décisions",
+            "features_desc": "Notre plateforme combine des données foncières traditionnelles avec l'imagerie satellitaire et l'IA pour vous donner une image complète.",
+            "features": {
+                "global_coverage": "Couverture mondiale des données",
+                "global_coverage_desc": "Accédez à des données foncières complètes provenant de plus de 150 pays avec une normalisation unifiée.",
+                "advanced_analytics": "Analyses avancées",
+                "advanced_analytics_desc": "Exploitez des informations basées sur l'IA pour prédire les tendances du marché et les fluctuations de la valeur foncière.",
+                "secure_transactions": "Transactions sécurisées",
+                "secure_transactions_desc": "La vérification soutenue par la blockchain garantit une transparence et une sécurité totales dans chaque transaction.",
+                "real_time": "Mises à jour en temps réel",
+                "real_time_desc": "Obtenez des notifications instantanées sur les changements de zonage, les facteurs environnementaux et les évolutions du marché."
+            },
+            "cta_section_title": "Prêt à transformer votre stratégie foncière ?",
+            "cta_section_desc": "Rejoignez plus de 500 entreprises utilisant SCOPLIT pour gérer leurs portefeuilles d'actifs mondiaux.",
+            "cta_section_btn": "Commencer maintenant"
+        },
+        "platform": {
+            "hero_title": "Construit sur une technologie avancée",
+            "hero_desc": "Notre plateforme exploite l'IA de pointe et l'imagerie satellitaire pour fournir une intelligence foncière en temps réel.",
+            "stack_title": "Pile technologique de base",
+            "stack_desc": "Conçu pour la vitesse, la précision et la fiabilité.",
+            "tech": {
+                "ingestion": "Ingestion de données",
+                "ingestion_desc": "Pipelines automatisés traitant quotidiennement des téraoctets de données satellitaires et terrestres.",
+                "ai": "Couche d'analyse IA",
+                "ai_desc": "Modèles d'apprentissage automatique propriétaires pour la classification et l'évaluation des terres.",
+                "infra": "Infrastructure évolutive",
+                "infra_desc": "Architecture cloud-native assurant une disponibilité de 99,99 % et un accès à faible latence.",
+                "security": "Sécurité d'entreprise",
+                "security_desc": "Conforme SOC2 avec chiffrement de bout en bout pour toutes les données sensibles."
+            }
+        },
+        "about": {
+            "hero_title": "Nous cartographions l'avenir de l'intelligence foncière mondiale",
+            "hero_desc": "SCOPLIT a été fondée avec une seule mission : fournir transparence et informations exploitables pour les investissements fonciers dans le monde entier.",
+            "mission": "Notre mission",
+            "mission_desc": "Démocratiser l'accès à des données foncières de haute qualité, permettant un développement durable et des décisions d'investissement plus intelligentes au-delà des frontières.",
+            "vision": "Notre vision",
+            "vision_desc": "Un monde où chaque parcelle de terre est comprise, évaluée correctement et utilisée au mieux grâce à des informations basées sur les données.",
+            "stats": {
+                "countries": "Pays couverts",
+                "points": "Points de données",
+                "clients": "Clients entreprises",
+                "history": "Années d'histoire"
+            },
+            "team_title": "Construit par des experts",
+            "team_desc": "Notre équipe combine des décennies d'expérience dans l'immobilier, la science des données et la technologie satellitaire."
+        },
+        "contact": {
+            "hero_title": "Entrer en contact",
+            "hero_desc": "Vous avez des questions sur notre couverture de données ou l'intégration API ? Notre équipe est prête à vous aider.",
+            "hq": "Siège social",
+            "email": "Envoyez-nous un email",
+            "call": "Appelez-nous",
+            "form": {
+                "title": "Envoyez-nous un message",
+                "first_name": "Prénom",
+                "last_name": "Nom",
+                "email": "Email",
+                "message": "Message",
+                "submit": "Envoyer le message"
+            }
+        },
+        "pricing": {
+            "hero_title": "Tarification simple et transparente",
+            "hero_desc": "Choisissez le plan qui correspond le mieux à vos besoins. Pas de frais cachés.",
+            "plans": {
+                "starter": "Démarrage",
+                "starter_desc": "Parfait pour les petites équipes et l'analyse régionale.",
+                "enterprise": "Entreprise",
+                "enterprise_desc": "Solution complète pour les organisations mondiales.",
+                "custom": "Personnalisé",
+                "custom_desc": "Solutions sur mesure pour le gouvernement et la recherche.",
+                "contact": "Contactez-nous",
+                "contact_btn": "Contacter les ventes",
+                "get_started": "Commencer"
+            }
+        },
+        "resources": {
+            "hero_title": "Ressources & Insights",
+            "hero_desc": "Gardez une longueur d'avance sur le marché avec nos dernières recherches, guides et nouvelles de l'industrie.",
+            "read_more": "Lire la suite"
+        }
+    }
+}

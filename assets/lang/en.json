@@ -1,0 +1,117 @@
+{
+    "nav": {
+        "home": "Home",
+        "platform": "Platform",
+        "about": "About",
+        "pricing": "Pricing",
+        "resources": "Resources",
+        "contact": "Contact",
+        "cta": "Get Started"
+    },
+    "footer": {
+        "tagline": "Transforming land decisions through data intelligence. We provide actionable insights for sustainable development.",
+        "platform": "Platform",
+        "resources": "Resources",
+        "company": "Company"
+    },
+    "landing": {
+        "home": {
+            "title": "AI-Powered Land Analysis",
+            "subtitle": "Real-Time Satellite Intelligence",
+            "hero_badge": "The Future of Land Intelligence",
+            "hero_title": "Unlock the Potential of Global Land Data",
+            "hero_desc": "Empower your investment decisions with the world's most advanced land intelligence platform. Real-time data, AI valuations, and predictive analytics at your fingertips.",
+            "cta_trial": "Get Started Free",
+            "cta_demo": "Book Demo",
+            "market_growth": "Market Growth",
+            "vs_last_year": "vs last year",
+            "features_title": "Everything you need to make better decisions",
+            "features_desc": "Our platform combines traditional land data with satellite imagery and AI to give you a complete picture.",
+            "features": {
+                "global_coverage": "Global Data Coverage",
+                "global_coverage_desc": "Access comprehensive land data from over 150 countries with unified standardization.",
+                "advanced_analytics": "Advanced Analytics",
+                "advanced_analytics_desc": "Leverage AI-driven insights to predict market trends and land value fluctuations.",
+                "secure_transactions": "Secure Transactions",
+                "secure_transactions_desc": "Blockchain-backed verification ensures complete transparency and security in every deal.",
+                "real_time": "Real-time Updates",
+                "real_time_desc": "Get instant notifications on zoning changes, environmental factors, and market shifts."
+            },
+            "cta_section_title": "Ready to transform your land strategy?",
+            "cta_section_desc": "Join over 500+ enterprises using SCOPLIT to manage their global asset portfolios.",
+            "cta_section_btn": "Get Started Now"
+        },
+        "platform": {
+            "title": "Platform Technology",
+            "hero_title": "Built on Advanced Technology",
+            "hero_desc": "Our platform leverages cutting-edge AI and satellite imagery to provide real-time land intelligence.",
+            "stack_title": "Core Technology Stack",
+            "stack_desc": "Designed for speed, accuracy, and reliability.",
+            "tech": {
+                "ingestion": "Data Ingestion",
+                "ingestion_desc": "Automated pipelines processing terabytes of satellite and ground data daily.",
+                "ai": "AI Analysis Layer",
+                "ai_desc": "Proprietary machine learning models for land classification and valuation.",
+                "infra": "Scalable Infrastructure",
+                "infra_desc": "Cloud-native architecture ensuring 99.99% uptime and low-latency access.",
+                "security": "Enterprise Security",
+                "security_desc": "SOC2 compliant with end-to-end encryption for all sensitive data."
+            }
+        },
+        "about": {
+            "title": "About SCOPLIT",
+            "hero_title": "We're mapping the future of global land intelligence",
+            "hero_desc": "SCOPLIT was founded with a single mission: to provide transparency and actionable insights for land investments worldwide.",
+            "mission": "Our Mission",
+            "mission_desc": "To democratize access to high-quality land data, enabling sustainable development and smarter investment decisions across borders.",
+            "vision": "Our Vision",
+            "vision_desc": "A world where every piece of land is understood, valued correctly, and utilized for its best purpose through data-driven insights.",
+            "stats": {
+                "countries": "Countries Covered",
+                "points": "Data Points",
+                "clients": "Enterprise Clients",
+                "history": "Years of History"
+            },
+            "team_title": "Built by Experts",
+            "team_desc": "Our team combines decades of experience in real estate, data science, and satellite technology."
+        },
+        "contact": {
+            "title": "Contact Us",
+            "hero_title": "Get in Touch",
+            "hero_desc": "Have questions about our data coverage or API integration? Our team is ready to help.",
+            "hq": "Headquarters",
+            "email": "Email Us",
+            "call": "Call Us",
+            "form": {
+                "title": "Send us a message",
+                "first_name": "First Name",
+                "last_name": "Last Name",
+                "email": "Email",
+                "message": "Message",
+                "submit": "Send Message"
+            }
+        },
+        "pricing": {
+            "title": "Pricing Plans",
+            "hero_title": "Simple, Transparent Pricing",
+            "hero_desc": "Choose the plan that best fits your needs. No hidden fees.",
+            "plans": {
+                "starter": "Starter",
+                "starter_desc": "Perfect for small teams and regional analysis.",
+                "enterprise": "Enterprise",
+                "enterprise_desc": "Comprehensive solution for global organizations.",
+                "custom": "Custom",
+                "custom_desc": "Tailored solutions for government and research.",
+                "contact": "Contact Us",
+                "contact_btn": "Contact Sales",
+                "get_started": "Get Started"
+            }
+        },
+        "resources": {
+            "title": "Resources",
+            "hero_title": "Resources & Insights",
+            "hero_desc": "Stay ahead of the market with our latest research, guides, and industry news.",
+            "read_more": "Read More"
+        }
+    }
+}
